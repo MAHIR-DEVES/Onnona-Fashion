@@ -8,6 +8,7 @@ import {
   FaEnvelope,
   FaMapMarkerAlt,
 } from 'react-icons/fa';
+import { FaTiktok } from 'react-icons/fa6';
 
 const Footer = () => {
   return (
@@ -27,32 +28,19 @@ const Footer = () => {
               </p>
               <div className="flex space-x-4 pt-2">
                 <a
-                  href="#"
+                  href="https://www.facebook.com/share/17erXU6q1A/"
                   className="text-[#5a189a] hover:text-[#7b2cbf] transition-colors transform hover:scale-110"
                   aria-label="Facebook"
                 >
                   <FaFacebook size={22} />
                 </a>
+
                 <a
-                  href="#"
-                  className="text-[#e63946] hover:text-[#ff6b6b] transition-colors transform hover:scale-110"
-                  aria-label="Instagram"
-                >
-                  <FaInstagram size={22} />
-                </a>
-                <a
-                  href="#"
-                  className="text-[#0077b5] hover:text-[#00a8e8] transition-colors transform hover:scale-110"
-                  aria-label="LinkedIn"
-                >
-                  <FaLinkedin size={22} />
-                </a>
-                <a
-                  href="#"
-                  className="text-[#1da1f2] hover:text-[#64b5f6] transition-colors transform hover:scale-110"
+                  href="https://www.tiktok.com/@onnonafashion?_r=1&_t=ZS-93dH7Fghrdd"
+                  className=" transition-colors transform hover:scale-110"
                   aria-label="Twitter"
                 >
-                  <FaTwitter size={22} />
+                  <FaTiktok size={22} />
                 </a>
               </div>
             </div>
