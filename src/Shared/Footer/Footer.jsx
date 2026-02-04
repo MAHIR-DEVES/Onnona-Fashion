@@ -58,7 +58,7 @@ const Footer = () => {
                     <FaPhone className="text-[#7b2cbf]" size={16} />
                   </div>
                   <span className="text-gray-700 text-sm md:text-base">
-                    +880 1234 567890
+                    +8801625695590
                   </span>
                 </div>
                 <div className="flex lg:justify-end items-center">
@@ -66,7 +66,7 @@ const Footer = () => {
                     <FaEnvelope className="text-[#e63946]" size={16} />
                   </div>
                   <span className="text-gray-700 text-sm md:text-base break-all">
-                    info@stylehub.com
+                    onnonafashionzone@gmail.com
                   </span>
                 </div>
                 <div className="flex lg:justify-end items-start">
