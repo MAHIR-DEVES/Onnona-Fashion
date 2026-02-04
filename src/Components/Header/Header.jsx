@@ -1,4 +1,5 @@
 import React, { useEffect, useRef } from 'react';
+import logo from '../../assets/logo.jpeg';
 
 export default function Header() {
   const titleRef = useRef(null);
@@ -41,7 +42,10 @@ export default function Header() {
             <div className="relative">
               <div className="absolute -inset-1 bg-gradient-to-r from-[#9d4edd] to-[#5a189a] rounded-full blur opacity-20 animate-pulse"></div>
               <div className="relative w-10 h-10 md:w-12 md:h-12 bg-gradient-to-br from-[#9d4edd]/10 to-[#5a189a]/10 rounded-xl md:rounded-2xl flex items-center justify-center shadow-inner">
-                <span className="text-lg md:text-xl lg:text-2xl">🎁</span>
+                <img src="" alt="" />
+                <span className="text-lg md:text-xl lg:text-2xl">
+                  <img className="rounded-xl" src={logo} alt="" />
+                </span>
               </div>
             </div>
             <div className="flex items-center gap-2">
