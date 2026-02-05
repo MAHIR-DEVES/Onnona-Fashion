@@ -40,6 +40,19 @@ import image24 from '../../assets/shari/24.jpeg';
 import image25 from '../../assets/shari/25.jpeg';
 import image26 from '../../assets/shari/26.jpeg';
 import image27 from '../../assets/shari/27.jpeg';
+import image28 from '../../assets/shari/28.jpeg';
+import image29 from '../../assets/shari/29.jpeg';
+import image30 from '../../assets/shari/30.jpeg';
+import image31 from '../../assets/shari/31.jpeg';
+import image32 from '../../assets/shari/32.jpeg';
+import image33 from '../../assets/shari/33.jpeg';
+import image34 from '../../assets/shari/34.jpeg';
+import image35 from '../../assets/shari/35.jpeg';
+import image36 from '../../assets/shari/36.jpeg';
+import image37 from '../../assets/shari/37.jpeg';
+import image38 from '../../assets/shari/38.jpeg';
+import image39 from '../../assets/shari/39.jpeg';
+import image40 from '../../assets/shari/40.jpeg';
 
 const initialProducts = {
   Shari: [
@@ -232,6 +245,26 @@ const initialProducts = {
       image: image27,
       sizes: [], // Empty array for Shari
     },
+    {
+      id: 28,
+      name: 'গায়ে হলুদের শাড়ী',
+      price: 220,
+      image: image28,
+      sizes: [], // Empty array for Shari
+    },
+    { id: 29, name: 'গায়ে হলুদের শাড়ী', price: 220, image: image29, sizes: [] },
+    { id: 30, name: 'গায়ে হলুদের শাড়ী', price: 220, image: image30, sizes: [] },
+
+    { id: 31, name: 'গায়ে হলুদের শাড়ী', price: 220, image: image31, sizes: [] },
+    { id: 32, name: 'গায়ে হলুদের শাড়ী', price: 220, image: image32, sizes: [] },
+    { id: 33, name: 'গায়ে হলুদের শাড়ী', price: 220, image: image33, sizes: [] },
+    { id: 34, name: 'গায়ে হলুদের শাড়ী', price: 220, image: image34, sizes: [] },
+    { id: 35, name: 'গায়ে হলুদের শাড়ী', price: 220, image: image35, sizes: [] },
+    { id: 36, name: 'গায়ে হলুদের শাড়ী', price: 220, image: image36, sizes: [] },
+    { id: 37, name: 'গায়ে হলুদের শাড়ী', price: 220, image: image37, sizes: [] },
+    { id: 38, name: 'গায়ে হলুদের শাড়ী', price: 220, image: image38, sizes: [] },
+    { id: 39, name: 'গায়ে হলুদের শাড়ী', price: 220, image: image39, sizes: [] },
+    { id: 40, name: 'গায়ে হলুদের শাড়ী', price: 220, image: image40, sizes: [] },
   ],
 };
 
